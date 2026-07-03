@@ -35,4 +35,4 @@ python rshenkar_hw8.py
 - `rshenkar_requirements.txt` — required Python packages.
 - `ticket_train.csv` — training dataset.
 - `ticket_test.csv` — test dataset.
-- `.gitignore` — ignores secret and runtime cache files.
+- `.gitignore` — runtime cache files.
