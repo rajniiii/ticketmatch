@@ -1,0 +1,14 @@
+api_key.txt
+chroma_gemma/
+chroma_openai/
+embeddinggemma-300m/
+.DS_Store
+*.env
+*.log
+*.sqlite3
+*.png
+*.jpg
+*.jpeg
+*.json
+*.npz
+*.npy

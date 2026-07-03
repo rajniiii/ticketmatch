@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-openai
+langchain-huggingface
+langchain-chroma
+chromadb
+openai
+sentence-transformers
+transformers
+torch
+scikit-learn
+polars
